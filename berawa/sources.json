@@ -1,0 +1,27 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelrostits.com/",
+ "read_at": "2026-10-30T07:03:20+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelrostits.com/",
+   "sha256": "716964745c3895e6948fba9873da32087595af7ffac0ec7c59bdc9d3c54c1911",
+   "chars": 9523
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelrostits.com",
+  "https://hotelrostits.com/aviso-legal/",
+  "https://hotelrostits.com/castellon-de-la-plana/",
+  "https://hotelrostits.com/en/",
+  "https://hotelrostits.com/en/aviso-legal/",
+  "https://hotelrostits.com/en/castellon-de-la-plana/",
+  "https://hotelrostits.com/en/habitaciones-en-castellon/",
+  "https://hotelrostits.com/en/politica-de-cookies/",
+  "https://hotelrostits.com/en/politica-de-privacidad/",
+  "https://hotelrostits.com/habitaciones-en-castellon/",
+  "https://hotelrostits.com/politica-de-cookies/",
+  "https://hotelrostits.com/politica-de-privacidad/"
+ ]
+}

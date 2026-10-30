@@ -1,0 +1,561 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-rostits-castellon",
+ "source_site": "https://hotelrostits.com/",
+ "source_read_at": "2026-10-30T07:03:20+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "habitaciones",
+     "dormitorio",
+     "individual",
+     "doble",
+     "matrimonio",
+     "triple"
+    ],
+    "en": [
+     "room",
+     "rooms",
+     "bedroom",
+     "single",
+     "double",
+     "twin",
+     "triple"
+    ],
+    "fr": [
+     "chambre",
+     "chambres",
+     "individuel",
+     "double",
+     "triple"
+    ],
+    "de": [
+     "welche zimmer",
+     "einzelzimmer",
+     "doppelzimmer",
+     "dreibett",
+     "zimmerart"
+    ]
+   },
+   "a": {
+    "es": "Hay 28 habitaciones: doble con cama de matrimonio, doble con dos camas individuales, doble de uso individual, triple, cuádruple y familiar. Todas con aire acondicionado y calefacción, TV, WiFi gratuito, escritorio, nevera pequeña con agua de bienvenida y baño privado con bañera o ducha.",
+    "en": "There are 28 rooms: double with a double bed, double with two single beds, double for single use, triple, quadruple and family. All with air conditioning and heating, TV, free WiFi, desk, small fridge with welcome water and private bathroom with bath or shower.",
+    "fr": "Il y a 28 chambres : double avec lit double, double avec deux lits simples, double en usage individuel, triple, quadruple et familiale. Toutes avec climatisation et chauffage, télévision, WiFi gratuit, bureau, petit réfrigérateur avec eau de bienvenue et salle de bains privée avec baignoire ou douche.",
+    "de": "Es gibt 28 Zimmer: Doppelzimmer mit Doppelbett, Doppelzimmer mit zwei Einzelbetten, Doppelzimmer zur Einzelnutzung, Dreibett-, Vierbett- und Familienzimmer. Alle mit Klimaanlage und Heizung, Fernseher, kostenlosem WLAN, Schreibtisch, kleinem Kühlschrank mit Begrüßungswasser und eigenem Bad mit Badewanne oder Dusche."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Somos un hotel familiar que cuenta con 28 amplias y luminosas habitaciones"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Todas las habitaciones están equipadas con aire acondicionado y calefacción"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Habitación doble cuenta con 2 camas individuales, aire acondicionado, escritorio, nevera pequeña con agua de bienvenida, sillones y mesita, TV, baño privado con bañera o ducha."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias y grupos",
+   "keys": {
+    "es": [
+     "cuadruple",
+     "familiar",
+     "familia",
+     "supletoria",
+     "cama extra",
+     "niño",
+     "nino",
+     "cinco",
+     "grupo"
+    ],
+    "en": [
+     "quadruple",
+     "family",
+     "extra bed",
+     "child",
+     "kids",
+     "group",
+     "five"
+    ],
+    "fr": [
+     "quadruple",
+     "familiale",
+     "famille",
+     "lit d'appoint",
+     "enfant",
+     "groupe",
+     "cinq"
+    ],
+    "de": [
+     "vierbett",
+     "familie",
+     "zustellbett",
+     "kind",
+     "gruppe",
+     "funf"
+    ]
+   },
+   "a": {
+    "es": "La cuádruple tiene 4 camas individuales y admite cama supletoria; la familiar tiene 1 cama de matrimonio y 2 individuales. La doble de matrimonio también admite cama supletoria.",
+    "en": "The quadruple has 4 single beds and allows an extra bed; the family room has 1 double bed and 2 singles. The double with a double bed also allows an extra bed.",
+    "fr": "La quadruple a 4 lits simples et accepte un lit d'appoint ; la familiale a 1 lit double et 2 lits simples. La double avec lit double accepte aussi un lit d'appoint.",
+    "de": "Das Vierbettzimmer hat 4 Einzelbetten und erlaubt ein Zustellbett; das Familienzimmer hat 1 Doppelbett und 2 Einzelbetten. Auch das Doppelzimmer mit Doppelbett erlaubt ein Zustellbett."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Habitación con 4 camas individuales pensada tanto para grupos de jovenes como para familias, admite cama supletoria."
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Dispone de 1 cama de matrimonio y 2 camas individuales"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Se puede añadir cama supletoria."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche",
+     "estacionar"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage",
+     " car "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture",
+     "stationnement"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     "auto"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay parking adaptado para personas con movilidad reducida, pero es necesario reservarlo. Según su web (leída el 30/10/2026), cuesta 10 € por día; confírmalo al reservar.",
+    "en": "Yes, there is parking (suitable for people with reduced mobility), but it must be booked. According to their website (read on 30/10/2026), it costs €10 per day; please confirm it when you book.",
+    "fr": "Oui, il y a un parking (adapté aux personnes à mobilité réduite), mais il faut le réserver. Selon leur site (consulté le 30/10/2026), il coûte 10 € par jour ; confirmez-le lors de la réservation.",
+    "de": "Ja, es gibt einen Parkplatz (geeignet für Menschen mit eingeschränkter Mobilität), der reserviert werden muss. Laut Website (abgerufen am 30/10/2026) kostet er 10 € pro Tag; bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Parking Es necesario reservar. Precio: 10€ por día. Adaptado para personas de movilidad reducida."
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K04",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "perro",
+     "mascota",
+     "gato",
+     "animal"
+    ],
+    "en": [
+     "dog",
+     "pet",
+     "pets",
+     "animal"
+    ],
+    "fr": [
+     "chien",
+     "animaux",
+     "animal",
+     "chat "
+    ],
+    "de": [
+     "hund",
+     "haustier",
+     "katze",
+     "tiere"
+    ]
+   },
+   "a": {
+    "es": "Sí, se admiten mascotas. Se pueden aplicar suplementos; consúltalo al reservar.",
+    "en": "Yes, pets are allowed. Additional charges may apply; ask when you book.",
+    "fr": "Oui, les animaux sont acceptés. Des suppléments peuvent s'appliquer ; renseignez-vous lors de la réservation.",
+    "de": "Ja, Haustiere sind erlaubt. Es können Zuschläge anfallen; fragen Sie bei der Buchung nach."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Mascotas Se admiten mascotas. Se pueden aplicar suplementos."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "recepcion y llegada",
+   "keys": {
+    "es": [
+     "recepcion",
+     "llego",
+     "llegada",
+     "medianoche",
+     "tarde",
+     "codigo",
+     "check-in",
+     "entro",
+     "entrar"
+    ],
+    "en": [
+     "reception",
+     "arrive",
+     "arrival",
+     "midnight",
+     "late",
+     "code",
+     "check-in",
+     "get in"
+    ],
+    "fr": [
+     "reception",
+     "arrive",
+     "arrivee",
+     "minuit",
+     "tard",
+     "code",
+     "entrer"
+    ],
+    "de": [
+     "rezeption",
+     "ankunft",
+     "komme",
+     "mitternacht",
+     "spat",
+     "code",
+     "hinein",
+     "einchecken"
+    ]
+   },
+   "a": {
+    "es": "La recepción atiende en persona de 7 a 23 h. Si llegas después de las 23 h, entras a la habitación con un código que te envían por email (sistema de recepción por códigos las 24 h).",
+    "en": "Reception is staffed from 7 to 23 h. If you arrive after 23 h, you enter your room with a code they send you by email (24-hour code-based check-in).",
+    "fr": "La réception est assurée sur place de 7 h à 23 h. Si vous arrivez après 23 h, vous accédez à la chambre avec un code envoyé par e-mail (système de réception par code 24 h/24).",
+    "de": "Die Rezeption ist von 7 bis 23 Uhr persönlich besetzt. Wenn Sie nach 23 Uhr ankommen, gelangen Sie mit einem Code ins Zimmer, den Sie per E-Mail erhalten (Code-System rund um die Uhr)."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Aunque la recepción es de atención presencial de 7-23 h, tenemos sistema de recepción por códigos las 24 h (si el cliente llega después de las 23 h puede entrar a la habitación con un código que le proporcionamos vía email)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "restaurante y servicios",
+   "keys": {
+    "es": [
+     "restaurante",
+     "cenar",
+     "cena",
+     "comida",
+     "desayun",
+     "wifi",
+     "internet",
+     "limpieza",
+     "lavanderia",
+     "equipaje",
+     "servicios"
+    ],
+    "en": [
+     "restaurant",
+     "dinner",
+     "lunch",
+     "breakfast",
+     "wifi",
+     "internet",
+     "cleaning",
+     "laundry",
+     "luggage",
+     "services"
+    ],
+    "fr": [
+     "restaurant",
+     "diner",
+     "dejeuner",
+     "wifi",
+     "internet",
+     "menage",
+     "blanchisserie",
+     "bagage",
+     "services"
+    ],
+    "de": [
+     "restaurant",
+     "abendessen",
+     "mittagessen",
+     "fruhstuck",
+     "wlan",
+     "internet",
+     "reinigung",
+     "wasche",
+     "gepack",
+     "service"
+    ]
+   },
+   "a": {
+    "es": "Adjunto al hotel hay un restaurante donde puedes desayunar, comer y cenar sin desplazarte. Además: WiFi gratuito en todo el establecimiento, limpieza diaria, guardaequipaje, información turística y servicio de lavandería.",
+    "en": "Attached to the hotel there is a restaurant for breakfast, lunch and dinner without going anywhere. Also: free WiFi throughout, daily cleaning, luggage storage, tourist information and laundry service.",
+    "fr": "Un restaurant attenant à l'hôtel sert le petit-déjeuner, le déjeuner et le dîner sans vous déplacer. Également : WiFi gratuit partout, ménage quotidien, bagagerie, informations touristiques et blanchisserie.",
+    "de": "Direkt am Hotel liegt ein Restaurant für Frühstück, Mittag- und Abendessen, ohne dass Sie das Haus verlassen müssen. Außerdem: kostenloses WLAN überall, tägliche Reinigung, Gepäckaufbewahrung, Touristeninformation und Wäscheservice."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Adjunto al hotel se encuentra un restaurante de gran calidad, lo que permite a los huéspedes disfrutar de desayunos, comidas y cenas con total comodidad, sin necesidad de desplazarse."
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Hay conexión a internet Wi-Fi disponible en todo el establecimiento. Gratis."
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Servicio de limpieza diario. Guardaequipaje. Información turística. Servicio de lavandería."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular",
+     "devolucion",
+     "reembols"
+    ],
+    "en": [
+     "cancel",
+     "refund"
+    ],
+    "fr": [
+     "annul",
+     "rembours"
+    ],
+    "de": [
+     "storn",
+     "absage",
+     "erstattung"
+    ]
+   },
+   "a": {
+    "es": "Según su web, la cancelación es gratuita hasta 24 h antes. Las condiciones exactas dependen de la tarifa: confírmalo al reservar.",
+    "en": "According to their website, cancellation is free up to 24 hours before. Exact terms depend on the rate: please confirm it when you book.",
+    "fr": "Selon leur site, l'annulation est gratuite jusqu'à 24 h avant. Les conditions exactes dépendent du tarif : confirmez-le lors de la réservation.",
+    "de": "Laut Website ist die Stornierung bis 24 Stunden vorher kostenlos. Die genauen Bedingungen hängen vom Tarif ab: bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Cancelación gratuita hasta 24h antes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar",
+     "mapa",
+     "situad",
+     "estacion",
+     "tren",
+     "autobus",
+     "centro",
+     "cerca"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there",
+     "map",
+     "located",
+     "station",
+     "train",
+     "centre",
+     "near"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "gare",
+     "train",
+     "centre",
+     "proche",
+     "venir"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "liegt",
+     "bahnhof",
+     "zentrum",
+     "nahe",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en Av. de l'Alcora, 73, 12006 Castelló de la Plana, a 15 minutos a pie del centro histórico y muy cerca de la estación de tren y autobuses. Por carretera, conexión con la CV-10 y la AP-7.",
+    "en": "It is at Av. de l'Alcora, 73, 12006 Castelló de la Plana, a 15-minute walk from the historic centre and very close to the train and coach stations. By road, it connects with the CV-10 and AP-7.",
+    "fr": "L'hôtel se trouve Av. de l'Alcora, 73, 12006 Castelló de la Plana, à 15 minutes à pied du centre historique et tout près des gares ferroviaire et routière. Par la route, accès par la CV-10 et l'AP-7.",
+    "de": "Das Hotel liegt in der Av. de l'Alcora, 73, 12006 Castelló de la Plana, 15 Gehminuten von der Altstadt und ganz nah an Bahnhof und Busbahnhof. Mit dem Auto über CV-10 und AP-7 erreichbar."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Av. de l'Alcora, 73, 12006 Castelló de la Plana, Castelló"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "a 15 minutos a pie del centro histórico de Castellón"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Nos encontramos muy cerca de la estación de tren y autobuses"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Contamos con una excelente conexión por carretera y autovía (CV-10 y AP-7)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "fecha"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "dates"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "termin"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 964 341 929 o escribir a reservas@hotelrostits.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their website's booking engine (Book button), call +34 964 341 929 or write to reservas@hotelrostits.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 964 341 929 ou écrire à reservas@hotelrostits.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 964 341 929 anrufen oder an reservas@hotelrostits.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "reservas@hotelrostits.com +34%20964%20341%20929 +34 964 341 929"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "accesibilidad",
+   "keys": {
+    "es": [
+     "adaptad",
+     "movilidad",
+     "silla de ruedas",
+     "accesib"
+    ],
+    "en": [
+     "accessib",
+     "wheelchair",
+     "reduced mobility",
+     "adapted"
+    ],
+    "fr": [
+     "adapte",
+     "fauteuil",
+     "mobilite",
+     "accessib"
+    ],
+    "de": [
+     "barrierefrei",
+     "rollstuhl",
+     "mobilitat",
+     "behindert"
+    ]
+   },
+   "a": {
+    "es": "Sí: hay una habitación adaptada para personas con movilidad reducida, y el parking también está adaptado.",
+    "en": "Yes: there is a room adapted for guests with reduced mobility, and the car park is also adapted.",
+    "fr": "Oui : une chambre est adaptée aux personnes à mobilité réduite, et le parking est également adapté.",
+    "de": "Ja: Es gibt ein Zimmer für Menschen mit eingeschränkter Mobilität, und auch der Parkplatz ist entsprechend angepasst."
+   },
+   "sources": [
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "contamos con una habitación adaptada para personas con movilidad reducida"
+    },
+    {
+     "url": "https://hotelrostits.com/",
+     "quote": "Adaptado para personas de movilidad reducida."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

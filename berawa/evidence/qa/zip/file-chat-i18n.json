@@ -1,0 +1,348 @@
+{
+ "url": "file:///tmp/zip-hotel-rostits-castellon/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 28 habitaciones: doble con cama de matrimonio, doble con dos camas individuales, doble de uso individual, triple, cuádruple y familiar. "
+    },
+    {
+     "q": "Somos cinco, ¿tenéis cuádruple con supletoria?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La cuádruple tiene 4 camas individuales y admite cama supletoria; la familiar tiene 1 cama de matrimonio y 2 individuales. La doble de matri"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, hay parking adaptado para personas con movilidad reducida, pero es necesario reservarlo. Según su web (leída el 30/10/2026), cuesta 10 €"
+    },
+    {
+     "q": "¿Puedo ir con mi perro?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, se admiten mascotas. Se pueden aplicar suplementos; consúltalo al reservar."
+    },
+    {
+     "q": "Llego a medianoche, ¿cómo entro?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La recepción atiende en persona de 7 a 23 h. Si llegas después de las 23 h, entras a la habitación con un código que te envían por email (si"
+    },
+    {
+     "q": "¿Tenéis restaurante para cenar?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Adjunto al hotel hay un restaurante donde puedes desayunar, comer y cenar sin desplazarte. Además: WiFi gratuito en todo el establecimiento,"
+    },
+    {
+     "q": "¿Puedo cancelar?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Según su web, la cancelación es gratuita hasta 24 h antes. Las condiciones exactas dependen de la tarifa: confírmalo al reservar."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en Av. de l'Alcora, 73, 12006 Castelló de la Plana, a 15 minutos a pie del centro histórico y muy cerca de la estación de tren y autobu"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 964 341 929 o escribir a reservas@hotelrostits.com. Este a"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 964 341 929 o escribir a reservas@hotelrostits.com. Este a"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 964 341 929 · reservas@hotelrostits.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 964 341 929 · reservas@hotelrostits.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay parking?",
+    "¿Puedo ir con mi perro?",
+    "¿Puedo cancelar?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 28 rooms: double with a double bed, double with two single beds, double for single use, triple, quadruple and family. All with air"
+    },
+    {
+     "q": "We are five, do you have a quadruple with an extra bed?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The quadruple has 4 single beds and allows an extra bed; the family room has 1 double bed and 2 singles. The double with a double bed also a"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is parking (suitable for people with reduced mobility), but it must be booked. According to their website (read on 30/10/2026), i"
+    },
+    {
+     "q": "Can I bring my dog?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, pets are allowed. Additional charges may apply; ask when you book."
+    },
+    {
+     "q": "I arrive at midnight, how do I get in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Reception is staffed from 7 to 23 h. If you arrive after 23 h, you enter your room with a code they send you by email (24-hour code-based ch"
+    },
+    {
+     "q": "Do you have a restaurant for dinner?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Attached to the hotel there is a restaurant for breakfast, lunch and dinner without going anywhere. Also: free WiFi throughout, daily cleani"
+    },
+    {
+     "q": "Can I cancel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "According to their website, cancellation is free up to 24 hours before. Exact terms depend on the rate: please confirm it when you book."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Av. de l'Alcora, 73, 12006 Castelló de la Plana, a 15-minute walk from the historic centre and very close to the train and coach st"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call +34 964 341 929 or write to reservas@hotelrostits.com. This assistant doe"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call +34 964 341 929 or write to reservas@hotelrostits.com. This assistant doe"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 964 341 929 · reservas@hotelrostits.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 964 341 929 · reservas@hotelrostits.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there parking?",
+    "Can I bring my dog?",
+    "Can I cancel?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 28 chambres : double avec lit double, double avec deux lits simples, double en usage individuel, triple, quadruple et familiale. Tout"
+    },
+    {
+     "q": "Nous sommes cinq, avez-vous une quadruple avec lit d'appoint ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La quadruple a 4 lits simples et accepte un lit d'appoint ; la familiale a 1 lit double et 2 lits simples. La double avec lit double accepte"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking (adapté aux personnes à mobilité réduite), mais il faut le réserver. Selon leur site (consulté le 30/10/2026), il coû"
+    },
+    {
+     "q": "Puis-je venir avec mon chien ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, les animaux sont acceptés. Des suppléments peuvent s'appliquer ; renseignez-vous lors de la réservation."
+    },
+    {
+     "q": "J'arrive à minuit, comment entrer ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La réception est assurée sur place de 7 h à 23 h. Si vous arrivez après 23 h, vous accédez à la chambre avec un code envoyé par e-mail (syst"
+    },
+    {
+     "q": "Avez-vous un restaurant pour dîner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Un restaurant attenant à l'hôtel sert le petit-déjeuner, le déjeuner et le dîner sans vous déplacer. Également : WiFi gratuit partout, ménag"
+    },
+    {
+     "q": "Puis-je annuler ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Selon leur site, l'annulation est gratuite jusqu'à 24 h avant. Les conditions exactes dépendent du tarif : confirmez-le lors de la réservati"
+    },
+    {
+     "q": "Où se trouve l'hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "L'hôtel se trouve Av. de l'Alcora, 73, 12006 Castelló de la Plana, à 15 minutes à pied du centre historique et tout près des gares ferroviai"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 964 341 929 ou écrire à reservas@hotelrosti"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 964 341 929 ou écrire à reservas@hotelrosti"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 964 341 929 · reservas@hotelrostits.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 964 341 929 · reservas@hotelrostits.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un parking ?",
+    "Puis-je venir avec mon chien ?",
+    "Puis-je annuler ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 28 Zimmer: Doppelzimmer mit Doppelbett, Doppelzimmer mit zwei Einzelbetten, Doppelzimmer zur Einzelnutzung, Dreibett-, Vierbett- und"
+    },
+    {
+     "q": "Wir sind fünf, gibt es ein Vierbettzimmer mit Zustellbett?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Das Vierbettzimmer hat 4 Einzelbetten und erlaubt ein Zustellbett; das Familienzimmer hat 1 Doppelbett und 2 Einzelbetten. Auch das Doppelzi"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Parkplatz (geeignet für Menschen mit eingeschränkter Mobilität), der reserviert werden muss. Laut Website (abgerufen am 30"
+    },
+    {
+     "q": "Darf ich meinen Hund mitbringen?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, Haustiere sind erlaubt. Es können Zuschläge anfallen; fragen Sie bei der Buchung nach."
+    },
+    {
+     "q": "Ich komme um Mitternacht an, wie komme ich hinein?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Rezeption ist von 7 bis 23 Uhr persönlich besetzt. Wenn Sie nach 23 Uhr ankommen, gelangen Sie mit einem Code ins Zimmer, den Sie per E-"
+    },
+    {
+     "q": "Haben Sie ein Restaurant zum Abendessen?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Direkt am Hotel liegt ein Restaurant für Frühstück, Mittag- und Abendessen, ohne dass Sie das Haus verlassen müssen. Außerdem: kostenloses W"
+    },
+    {
+     "q": "Kann ich stornieren?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Laut Website ist die Stornierung bis 24 Stunden vorher kostenlos. Die genauen Bedingungen hängen vom Tarif ab: bitte bei der Buchung bestäti"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der Av. de l'Alcora, 73, 12006 Castelló de la Plana, 15 Gehminuten von der Altstadt und ganz nah an Bahnhof und Busbahnho"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 964 341 929 anrufen oder an reservas@hotelrostits.c"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 964 341 929 anrufen oder an reservas@hotelrostits.c"
+    },
+    {
+     "q": "Was kostet eine Übernachtung?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 964 341 929 · reservas@hotelrostits.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 964 341 929 · reservas@hotelrostits.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Darf ich meinen Hund mitbringen?",
+    "Kann ich stornieren?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

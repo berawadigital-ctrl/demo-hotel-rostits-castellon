@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-rostits-castellon",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T07:02:30+01:00",
+ "updated_at": "2026-10-30T07:15:00+01:00",
+ "business": {
+  "name": "Hotel Rostits",
+  "legal_name": "HSK 57, SL",
+  "registry_ids": [
+   "NIF B12266839"
+  ],
+  "url": "https://hotelrostits.com/",
+  "domain": "hotelrostits.com",
+  "municipality": "Castelló de la Plana",
+  "province": "Castellón",
+  "address": "Av. de l'Alcora, 73 · 12006 Castelló de la Plana",
+  "phones": [
+   "+34 964 341 929"
+  ],
+  "emails": [
+   "reservas@hotelrostits.com"
+  ],
+  "sector": "hotel familiar de 28 habitaciones en Castellón de la Plana"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+ROSTITS/@39.9865585,-0.0576764,17z/data=!4m9!3m8!1s0xd5ffe18cd93ad1d:0x9357f01f96bc5e53!5m2!4m1!1i2!8m2!3d39.9865585!4d-0.0576764!16s%2Fg%2F1tdrgq1y",
+  "date": "2026-10-29T16:22:47+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.avirato.com/?code=53239085",
+  "note": "motor de reservas real de su web (Avirato), HTTP 200 comprobado el 30/10/2026; el mismo enlace en es/en/fr/de."
+ },
+ "audit_original": {
+  "url": "https://hotelrostits.com/",
+  "date": "2026-10-30T06:50:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": null,
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
